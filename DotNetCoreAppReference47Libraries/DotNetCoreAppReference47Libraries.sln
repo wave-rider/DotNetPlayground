@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28621.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreAppReference47Libraries", "DotNetCoreAppReference47Libraries\DotNetCoreAppReference47Libraries.csproj", "{1AFEA82D-7F61-4A5B-8EDD-AC66639CA1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet47Lib", "DotNet47Lib\DotNet47Lib.csproj", "{1C92A029-13BA-4F1B-B3DE-17A2F683A8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFEA82D-7F61-4A5B-8EDD-AC66639CA1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFEA82D-7F61-4A5B-8EDD-AC66639CA1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFEA82D-7F61-4A5B-8EDD-AC66639CA1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFEA82D-7F61-4A5B-8EDD-AC66639CA1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C92A029-13BA-4F1B-B3DE-17A2F683A8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C92A029-13BA-4F1B-B3DE-17A2F683A8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C92A029-13BA-4F1B-B3DE-17A2F683A8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C92A029-13BA-4F1B-B3DE-17A2F683A8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D5A0F68-3F63-4BB0-823E-E089C09F1063}
+	EndGlobalSection
+EndGlobal

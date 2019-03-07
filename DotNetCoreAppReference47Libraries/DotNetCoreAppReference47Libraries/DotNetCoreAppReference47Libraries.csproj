@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RuntimeIdentifiers>osx.10.12-x64;win10-x64</RuntimeIdentifiers> 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotNet47Lib\DotNet47Lib.csproj" />
+  </ItemGroup>
+
+</Project>
